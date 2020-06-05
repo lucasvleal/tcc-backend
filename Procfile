@@ -1,1 +1,1 @@
-web:gunicorn get:test
+web: gunicorn api_tcc.wsgi
