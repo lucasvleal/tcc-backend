@@ -1,1 +1,1 @@
-web:gunicorn apps:recAndgiv_images
+web:gunicorn get:test
