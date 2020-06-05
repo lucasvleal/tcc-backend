@@ -1,1 +1,1 @@
-web:gunicorn urls:api_tcc --olg-file=
+web:gunicorn apps:recAndgiv_images
